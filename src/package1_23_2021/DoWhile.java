@@ -1,5 +1,7 @@
 package package1_23_2021;
 
+import java.util.Scanner;
+
 public class DoWhile {
     public static void main(String[] args) {
 
